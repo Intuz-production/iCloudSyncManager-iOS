@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-    INTUZ is presenting a iCloud Sync Manager component, which has functionality to sync application data to iCloud account.
+    INTUZ is presenting a iCloud Sync Manager component for your iOS native application, which has functionality to sync application data to your iCloud account.
 <br>
 
 <h1>Features</h1>
