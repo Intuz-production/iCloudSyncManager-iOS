@@ -1,14 +1,15 @@
-**<h1>Introduction</h1>**
+<h1>Introduction</h1>
     INTUZ is presenting a iCloud Sync Manager component, which has functionality to sync application data to iCloud account.
 <br>
 
-**<h1>Features</h1>**
+<h1>Features</h1>
     This component has wraper class from which developer can easy to integrate iCloud syncing functionalty with two types of syncing functionality. 
+    
     1. iCloud Sync using Key Value paring
     2. iCloud Sync using Document Storage
 <br/>
 
-**<h1>Getting Started</h1>**
+<h1>Getting Started</h1>
 <br/>   Add iCloud.framework in in project library.
 
     1. iCloud Sync using Key Value paring
@@ -31,14 +32,14 @@
         Note :  
             1. 'addObserverForSaveDocumentToiCloud' is used to save and update application prefrence file (i.e. A file which needs to sync with iCloud).
             2. 'removeObserverForSaveDocumentToiCloud' is used to stop monitoring of iCloud document storage event.	
-**<h1>Bugs and Feedback</h1>**
+<h1>Bugs and Feedback</h1>
 For bugs, questions and discussions please use the Github Issues.
 
-**<h1>Acknowledgments</h1>**
+<h1>Acknowledgments</h1>
 
-* <a href="https://github.com/iRareMedia/iCloudDocumentSync" target="_blank">iCloudDocumentSync</a>
+<a href="https://github.com/iRareMedia/iCloudDocumentSync" target="_blank">iCloudDocumentSync</a>
 
-**<h1>License</h1>**
+<h1>License</h1>
 The MIT License (MIT)
 <br/><br/>
 Copyright (c) 2018 INTUZ
